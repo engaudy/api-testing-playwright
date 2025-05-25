@@ -11,8 +11,5 @@ reports/
 /blob-report/
 /playwright/.cache/
 
-# Lock file
-package-lock.json
-
 # Ignore macOS system files
 .DS_Store
