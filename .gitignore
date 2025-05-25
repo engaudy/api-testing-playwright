@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Playwright reports and caches
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Lock file
+package-lock.json
