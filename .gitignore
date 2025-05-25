@@ -3,6 +3,7 @@ node_modules/
 
 # Report
 reports/
+**/reports/
 
 # Playwright reports and caches
 /test-results/
