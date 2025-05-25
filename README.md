@@ -1,7 +1,8 @@
 # Booking API Test Automation
 
 This project automates end-to-end API testing of the Booking API using **Playwright** and **Cucumber** (BDD).  
-It is designed to be modular, reusable, and easy to extend.
+It is designed to be modular, reusable, and easy to extend and you can use github actions and then download
+the report(.html).
 
 ## 📋 Prerequisites
 
