@@ -1,0 +1,21 @@
+{
+  "info": {
+    "name": "Booking API Collection",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get All Bookings",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://restful-booker.herokuapp.com/booking",
+          "protocol": "https",
+          "host": ["restful-booker", "herokuapp", "com"],
+          "path": ["booking"]
+        }
+      }
+    }
+  ]
+}
